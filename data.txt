@@ -1,0 +1,94 @@
+SET: Noxus Darius
+Include: Cassiopeia Kled Swain Darius Katarina Azir Nasus Sion 
+SET: Gunner Tristana
+Include: Maokai Poppy Tristana Viego Jinx Jayce Zeri Heimer 
+SET: Teaming Up
+Include: Sett Warwick Darius Garen Sona Jarvan IV Nasus Aatrox 
+SET: Zaun Zeri T-Hex
+Include: Jinx Vi Ekko Jayce Sejuani Urgot Zeri Senna 
+SET: Freljord Zeri
+Include: Jinx Jayce Lissandra Sejuani Shen Zeri Senna Sion 
+SET: Built Different
+Include: Aphelios Gwen Jarvan IV Kai'Sa Nasus Sejuani Shen Zeri 
+SET: Sorcerer Lux Ahri
+Include: Swain Karma Sona Taric Jarvan IV Lux Shen Ahri 
+SET: Ionia Yasuo
+Include: Irelia Sett Warwick Karma Kai'Sa Shen Yasuo Ahri 
+SET: Noxus Darius Katarina
+Include: Cassiopeia Samira Kled Swain Warwick Darius Ekko Katarina 
+SET: Strategist Azir
+Include: Swain Taliyah Teemo Garen Azir Jarvan IV Lux Nasus 
+SET: Freljord Ekko
+Include: Ashe Ekko Katarina Lissandra Sejuani Shen Urgot Sion 
+SET: Void Kai'Sa
+Include: Cho'Gath Malzahar Kassadin Vel'Koz Rek'Sai Kai'Sa Yasuo Bel'Veth 
+SET: Ionia Aphelios
+Include: Irelia Jhin Sett Karma Taric Aphelios Shen Yasuo 
+SET: Shadow Isles Kalista
+Include: Irelia Maokai Kalista Gwen Kai'Sa Shen Yasuo Senna 
+SET: Sorcerer Lux Vel'Koz
+Include: Malzahar Swain Sona Taric Vel'Koz Jarvan IV Lux Ahri 
+SET: Challenger Kai'Sa
+Include: Irelia Samira Warwick Kalista Kai'Sa Shen Yasuo Aatrox 
+SET: Freljord Aphelios
+Include: Ashe Akshan Lissandra Taric Aphelios Sejuani Shen Urgot 
+SET: Double Trouble
+Include: Sett Sett Swain Swain Taliyah Taliyah Teemo Teemo 
+SET: Slayer Zed
+Include: Kled Sett Zed Darius Katarina Gwen Shen Aatrox 
+SET: Targon Aphelios
+Include: Ashe Soraka Lissandra Taric Aphelios Sejuani Shen Ryze 
+SET: Juggernaut Darius
+Include: Kled Swain Darius Garen Katarina Nasus Aatrox Sion 
+SET: Bruiser Rek'Sai
+Include: Cho'Gath Renekton Vi Lissandra Rek'Sai Kai'Sa Sejuani Sion 
+SET: Challenger Kalista
+Include: Irelia Samira Sett Warwick Kalista Gwen Kai'Sa Yasuo 
+SET: Bastion Taric
+Include: Maokai Poppy Kassadin Soraka Taric Aphelios Shen K'Sante 
+SET: Gunner Zeri
+Include: Jinx Jayce Lissandra Taric Sejuani Shen Zeri Senna 
+SET: Shadow Isles Gwen
+Include: Maokai Kalista Taric Gwen Kai'Sa Shen K'Sante Senna 
+SET: Shurima Azir
+Include: Cassiopeia Renekton Taliyah Akshan Azir Jarvan IV Nasus K'Sante 
+SET: Challenger Kai'Sa Yasuo
+Include: Irelia Kalista Lissandra Kai'Sa Sejuani Shen Yasuo Sion 
+SET: Multicaster Teemo
+Include: Poppy Kled Swain Taliyah Teemo Sona Vel'Koz Jarvan IV 
+SET: Slayer Gwen Shadow Isles
+Include: Kayle Maokai Viego Kled Zed Kalista Gwen Aatrox 
+SET: Invoker Karma
+Include: Galio Soraka Karma Lissandra Taric Shen Ahri Ryze 
+SET: Slayer Aatrox
+Include: Kayle Kled Zed Darius Garen Gwen Nasus Aatrox 
+SET: Zaun Zeri Urgot
+Include: Jinx Ekko Jayce Shen Urgot Zeri Heimer Senna 
+SET: Bastion Kalista
+Include: Maokai Poppy Kassadin Kalista Taric Kai'Sa Shen K'Sante 
+SET: Zaun Zeri
+Include: Jinx Warwick Ekko Jayce Jarvan IV Urgot Zeri Senna 
+SET: Slayer Katarina
+Include: Kayle Viego Kled Zed Ekko Katarina Gwen Aatrox 
+SET: Slayer Kled
+Include: Kayle Poppy Kled Swain Teemo Zed Katarina Gwen 
+SET: Shadow Isles Viego
+Include: Maokai Viego Zed Ekko Kalista Katarina Gwen Senna 
+SET: Demacia Kayle
+Include: Kayle Poppy Galio Garen Sona Jarvan IV Lux Aatrox 
+SET: Slayer Gwen
+Include: Kayle Viego Kled Sett Zed Gwen Shen Aatrox 
+SET: Sorcerer Lux
+Include: Malzahar Orianna Swain Taric Vel'Koz Jarvan IV Lux Ahri 
+SET: Zaun Zeri Gwen
+Include: Maokai Viego Jinx Warwick Ekko Kalista Gwen Zeri 
+SET: Invoker Karma Sejuani
+Include: Soraka Karma Lissandra Taric Sejuani Shen Ahri Ryze 
+SET: Demacia Lux
+Include: Kayle Poppy Galio Garen Sona Taric Jarvan IV Lux 
+SET: Slayer Kayle
+Include: Kayle Poppy Galio Kled Teemo Sona Jarvan IV Shen 
+SET: Yordle Teemo
+Include: Maokai Poppy Tristana Kled Teemo Sona Jarvan IV Heimer 
+SET: Deadeye Jhin
+Include: Irelia Jhin Ashe Sett Warwick Aphelios Sejuani Urgot 
